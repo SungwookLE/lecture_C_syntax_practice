@@ -1,0 +1,3 @@
+﻿  code5.c
+C:\Users\cypark\source\repos\200820\Project\Project\code5.c(22,7): warning C4101: 'Dest' :참조되지 않은 지역 변수입니다.
+  Project.vcxproj -> C:\Users\cypark\source\repos\200820\Project\Debug\Project.exe
